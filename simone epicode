@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>simone schioppo</title>
+    <style>
+    table{
+        border-collapse:collapse
+    }
+    td, th{
+        border:2px solid black
+    }
+    h2{color: blue;}
+    h3{
+        color: blue;
+    }
+    ul{
+        width: 5cm;
+    }
+    strong{
+        color: red;
+    }
+    </style>
+</head>
+<body>
+    <h1>SIMONE SCHIOPPO</h1>
+   <div>
+    <hr>
+  <img src="IMG_7653.jpeg" width="100px">
+   </div>
+   <h3>percorso di studi e competenze:</h3>
+   <p>
+    <span>
+        <ol>
+            <ul>diploma istituo alberghiero</ul>
+            <ul>attestato livello B2 nella conoscienza della lingua inglese</ul>
+        </ol>
+    </span>
+    </p>
+    <p>
+        <h3>hobbyes e interessi:</h3>
+        <ol>
+            <li>viaggi</li>
+            <li>auto/appassionato di motori in generale</li>
+            <li> <strong>soldi</strong></li>
+        </ol>
+    </p>
+    <div>
+        <h2>ESPERIENZE</h2>
+    <table>
+        <tr>
+            <td>
+                scolastiche
+            </td>
+            <td>
+                lavorative
+            </td>
+        </tr>
+        <tr>
+            <td>
+                stage in alberghi
+            </td>
+            <td>
+                rappresentante commerciale
+            </td>
+        </tr>
+    </table>
+    </div>
+    <h6>info e contatti:</h6>
+    <p>
+        <a href="simoneschioppo@icloud.com">simoneschioppo@icloud.com</a>
+    </p>
+    <p>
+       <a href="https://www.linkedin.com/in/simone-schioppo-00013119a?original_referer=">linkedin</a>
+       <img src="unnamed.png" width="25px" alt="">
+    </p>
+</body>
+</html
